@@ -34,6 +34,7 @@ This is a Java Swing-based interactive Sudoku Solver that allows users to input 
 - Implements a classic backtracking algorithm to solve Sudoku.
 
 ## Usage Tips
+![Demo Video](./demo.mp4)
 - Only enter digits from 1 to 9 in the cells.
 - Leave cells blank to represent empty spots.
 - Resizing window dynamically adjusts the size of text fields and buttons.
